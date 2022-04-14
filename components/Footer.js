@@ -1,6 +1,6 @@
 const sunIcon = (
   <svg
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://emoji.gg/assets/emoji/5486_bruh.png"
     width="25"
     height="24"
     fill="none"
@@ -30,7 +30,7 @@ const sunIcon = (
 
 const moonIcon = (
   <svg
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e3a7ea3a-611f-4a76-a4e2-f50dccd0be1e/dehk84v-43f60a83-9a2e-42c5-8d12-1cf053a9281f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UzYTdlYTNhLTYxMWYtNGE3Ni1hNGUyLWY1MGRjY2QwYmUxZVwvZGVoazg0di00M2Y2MGE4My05YTJlLTQyYzUtOGQxMi0xY2YwNTNhOTI4MWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CXbN2bVYeg4s9D6ikcIFtUCNXd23lUpD5jZCXsjLt2k"
     width="21"
     height="20"
     fill="none"
